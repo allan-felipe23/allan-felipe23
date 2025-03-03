@@ -12,7 +12,7 @@ sólidos conhecimentos em lógica de programação.Estou tirando minha próxima 
 Aqui no meu GitHub, você encontrará projetos, desafios e exercícios que estou desenvolvendo ao longo da minha jornada de aprendizado.  
 
 ## 📫 Como me encontrar  
-📧 E-mail: [allanborges@myyahoo.com]  
-💼 LinkedIn: [(https://www.linkedin.com/in/alan-borges23/)]
+📧 E-mail: allanborges@myyahoo.com<br>
+💼 LinkedIn: https://www.linkedin.com/in/alan-borges23/
 
 ---
