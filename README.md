@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Allan!  
 
-🎓 Estudante de **Ciência da Computação**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas com previsão de termíno para 2026**  
 🐍 Atualmente estudando **Python**<br>
 ☁️ Possuo Certificação CLF-C02 - AWS Certified Cloud Practitioner<br>
 ☁️ Possuo Certificação AWS Solutions Architect Associate Certification (SAA-C03)<br>
